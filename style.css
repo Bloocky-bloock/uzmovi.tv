@@ -287,6 +287,7 @@
     transition: 500ms;
     border: 1px solid #3e5268;
     margin: 20px 0;
+    font-size: 15px;
 }
 .f1 p:hover{
     background-color: #3e5268;
@@ -599,3 +600,4 @@
     background-color: #3e5268;
 
 }
+
