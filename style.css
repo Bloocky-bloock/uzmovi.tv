@@ -111,7 +111,7 @@
     padding: 20px;
 }
 .box2{
-    padding: 3px 3px 50px 3px;
+    padding: 3px;
     background-color: #202933;
     text-align: center;
     align-content: center;
@@ -122,7 +122,7 @@
     height: 100%;
 }
 .box2 p{
-    padding: 10px 0 0 0;
+    padding: 10px 0;
 }
 .boxes{
     padding: 20px 0;
@@ -220,7 +220,7 @@
 }
 .box-tasodifiy{
     background-color: #1b222c;
-    margin: 20px;
+    margin: 20px 0;
     border-radius: 5px;
     width: 42vh;
     height: 54vh;
@@ -290,7 +290,7 @@
     transition: 500ms;
     border: 1px solid #3e5268;
     margin: 20px 0;
-    font-size: 15px;
+    font-size: 10px;
 }
 .f1 p:hover{
     background-color: #3e5268;
@@ -603,5 +603,6 @@
     background-color: #3e5268;
 
 }
+
 
 
